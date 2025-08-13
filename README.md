@@ -212,12 +212,3 @@ java MyProgram
 ```
 
 ---
-
-## 12. Common Errors
-
-* **Filename/Class Mismatch** → must match exactly.
-* **Missing Semicolon `;`** → every statement ends with `;`.
-* **Case Sensitivity** → Java keywords, class names, and variables are case-sensitive.
-* **Unmatched Braces** `{ }` → every `{` must have a `}`.
-
----
