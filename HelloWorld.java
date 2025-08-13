@@ -6,7 +6,7 @@
 */
 
 // 1. Package Declaration (Optional)
-package com.example.helloworld;
+//package com.example.helloworld;
 
 // 2. Import Statements (Not needed in this simple example, but used for external libraries)
 // import java.util.Scanner;
