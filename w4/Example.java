@@ -1,3 +1,4 @@
+package java_programming.w4;
 public class Example {
 
     // Static variable (belongs to the class)
